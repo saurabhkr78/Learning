@@ -1,0 +1,5 @@
+Download msg.exe
+Move it to the C:\Windows\System32 folder
+Add path of C:\Windows\System32 folder in system variable
+Ipconfig get your IPV4
+msg * /server:receiverIP address  "Your message"
